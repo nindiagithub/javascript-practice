@@ -48,3 +48,10 @@ const narniaS2 = [
 
 console.log(narniaS2);
 
+// Implementasi pada Array
+
+narniaS2.push("Chronicles of Narnia S2 - Beyond Imagination")
+console.log(narniaS2);
+
+narniaS2.pop()
+console.log(narniaS2);
